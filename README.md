@@ -24,8 +24,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<iframe src="https://uploads.knightlab.com/storymapjs/236079bba7b8a7f8e73782d0bd784514/la-ruta-de-mi-vida/index.html" frameborder="0" width="100%" height="800"></iframe>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
