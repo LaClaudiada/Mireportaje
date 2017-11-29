@@ -17,3 +17,7 @@
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1225_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/02r1m_r","geo":"","time":"today 12-m"},{"keyword":"/m/03c3tmt","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F02r1m_r,%2Fm%2F03c3tmt&date=today 12-m,today 12-m","guestPath":"https://trends.google.es:443/trends/embed/"}); </script> 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1R7MxF1a1D2XZ5_YYWrR3a0eMdT5IMbQp" width="640" height="480"></iframe>
+
+<iframe width="100%" height="520" frameborder="0" src="https://cbaez.carto.com/builder/36683b7e-ab30-4870-aa8a-3722fe45ed28/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+<iframe width="100%" height="520" frameborder="0" src="https://cbaez.carto.com/builder/36683b7e-ab30-4870-aa8a-3722fe45ed28/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
